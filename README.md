@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Dorian 👋
 
-<!--
-**ThatDoriann/ThatDoriann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a programmer and reverse engineer focused on **game development, game systems, and low level programming**.
 
-Here are some ideas to get you started:
+### 🛠️ Languages I Know:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **C++**
+* **Luau / Lua** 
+* **Python**
+* **C#** - not too experienced
+* **Java**
+* **JavaScript** - a lil bit here and there...
+
+### 🔍 My Interests:
+
+* Game Development
+* Reverse Engineering
+* Low-Level Programming
+* Game Modding
+
+### 📫 Where To Contact Me:
+
+**Discord:** `z.raf`
+
+---
